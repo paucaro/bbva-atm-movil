@@ -72,7 +72,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
         create: (_) => AtmBloc(
           atmRepository: AtmRepository(atmApi: AtmApi(dio.Dio())),
         )..add(AtmFetched(
-            request: AtmRequest(16.77, -93.15, fecha, radio),
+            request: AtmRequest(16.7604127, -93.1527846, fecha, radio),
           )),
         child: Container(
           color: Colors.black12,
