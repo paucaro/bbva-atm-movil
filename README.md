@@ -1,6 +1,6 @@
-# dashrock
+# Dashrock mobile
 
-A new Flutter project.
+Aplicacion movil Dashrock
 
 ## Getting Started
 
