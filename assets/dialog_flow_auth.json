@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bbva-latam-hack22mex-5013",
+  "private_key_id": "891b6f5c361607cc2736d8d40b2be310f1ee4e8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDzWLxDS3C1lsl4\noyCahTwhYHMieq7DcBaI8VHzliAXcjgd1KH4SPfSe33pdYE5YfTG3u9X7RIT4o2A\nXQ8QXoKXxyQbH3lX8lnJZvNojeb6vXHE9F2fWv6lHT4CWTNbUhUH/5s3xj84Kn7H\nijYhVF3kRnOcBjmjNL3GaVc9HgjH6jqRDDo0DR7O257tYnIFjeWh3qOwtyRETCKP\ngVBjsbaXDOuxkYBYjsiPh389gMKEcOcqiyqru9sAVcgc25LYkHnGFO582ZsSFm6+\nnspuyqYNeBjzYZ43cEud48uPn39kkQkKhG6FL9kS5RksA9/q0ba4BrU6AoPlLCUN\ndGkVc3xfAgMBAAECggEAC31zHVJSWoQw0HYTXnhseU0yG2dVUnu7u8XOjz2ciWmK\nHwA9O9JmMTHT+plUpj6HX5ZKSe0zCfv9n1I3UlD8+ujFzFS4yHvX3JSfMElL3u4a\nkVNECxQxgInmfMHmW/6bE5zwhGT/ukmiDCtCQ35kFPxYY1OVQR7cLU0LlFtosBCd\npI9AgbtJwBGfbhe0iNzI5RYyp/ZdP3Cm20/f04LOZTs3vHYbw/Cjt91enacdVhJs\nrc8XeRqPajMJP6Bcq1tXGNT0OgtEo7k60DRcA+rBSa3alYxEkROCZx5PkLl9+gXo\nVsAdW51XHKxf+D2Si9rMhLV3Loq7e1RNQmRjjH5U4QKBgQD9lHgeWGDodckr+uN/\nkNYrlfqiD2/7eMshUOGPFmuBSs9KUqvaeMfpbsDglXOfjDyVkBoWZaAS+zHwDabQ\nDaBCspZ5WdLb5hoWzVUIUnyqBMMMtTYA7NLilTrqJBikM9ORaRQJeJb+t10O1TE8\nLy4q0eFovVgdcARUH2zzrQhNCQKBgQD1q0PGCGZp4HyfWaqApcSUOO73W7zwUQSv\nSnVJC+ciAnqDJ70qYikuivcFucJcGfWMUk1920Zx5ppzCd7A527c9gBiEDluPG6X\n/BfKSXwCw3OPVb3xdBVWNizSkmU6iME+LkLihoAHgg1PNeqMKBrK1QNQwGG5u6Pc\nXM3+l2HAJwKBgQCjEvHUgf2AQQ8oa2YWSWySBxdxVQAs9lebi0ojHMXyFcwM/fFq\nxDW71u/O/g2nUyY7ALrmIGC7FDPfLshSEBE6E2NVkwBZTjcE5vOCMJnfNMTCzV53\nZdWQxWtn2+LE5lduseai2JwyHnWH7m6FR8om22ZcVzftZnZCKxuD8YjfEQKBgQDQ\njAzChcr6wjjIxUN6Zj5UXWhuz4+6qexCKgEae2JAer4prIhm/GFdQ1ajo6ecq+TI\ns+1Yk9ZfRpWCZrSUKWLxbFuy43b9X4u6taQ0cuE1L1pgKTdPS235e4/dSa1pXUI+\nWOMqjWcN+Jb30RtE05665M0ltcq/8swNezLblwLCLQKBgB6kgqcQDOhsIpUb11sa\nuQHsjY2rPD4pX1wfycjRagm4ks4Wqqw/y7J9Fj3KixvR/cI2HdoxQZNXkkj3b6nY\n0Xrd4D90TqUEyl3ZWFYKWdbdc1hiEI78Oz7I4eEZN18LxD5cv86aoRYTZgObkhlD\nNioyP9lHMtb02wtH80iSufsS\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-rock@bbva-latam-hack22mex-5013.iam.gserviceaccount.com",
+  "client_id": "113871601894624811437",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-rock%40bbva-latam-hack22mex-5013.iam.gserviceaccount.com"
+}
